@@ -24,6 +24,7 @@ docker ps -a
 ```
 
 ## Push the container to AWS ECR
+![ecr](https://user-images.githubusercontent.com/35469345/135733332-f4aaee57-da1c-4441-a9a7-560612f6999d.jpg)
 
 ### Create a repository in ECR and view the push command
 ```
